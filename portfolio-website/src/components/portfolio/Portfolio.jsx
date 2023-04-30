@@ -17,8 +17,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio_item-cta'>
-          <a href='https://github.com' className='btn'>Github</a>
-          <a href='#' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://github.com/alexbrenes999/project1' className='btn'>Github</a>
+          <a href='https://alexbrenes999.github.io/project1/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio_item'>
@@ -27,8 +27,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio_item-cta'>
-          <a href='https://github.com' className='btn'>Github</a>
-          <a href='#' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://github.com/ChrisEliGirard/Jet-Set-Social' className='btn'>Github</a>
+          <a href='https://serene-beach-93535.herokuapp.com/login' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio_item'>
